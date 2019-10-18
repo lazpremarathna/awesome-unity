@@ -64,8 +64,9 @@ A curated list of awesome Unity assets, resources, tutorials and more.
     > * Free
     >    * Personal - Revenue or funding less than $100K in the last 12 months.
     > * Paid
-    >    * Plus ($35 per month) - Revenue or funding less than $200K in the last 12 months.
-    >    * Pro ($125 per month) - No limits on revenue or funding.
+    >   * Plus ($35 per month) - Revenue or funding less than $200K in the last 12 months.
+    >   * Pro ($125 per month) - No limits on revenue or funding.
+    >   * Enterprise - Custom solutions at scale, designed to support your organization’s creative, technical and business goals
     >
     > for more details [click here](https://store.unity.com/#plans-business)
 
@@ -79,3 +80,9 @@ A curated list of awesome Unity assets, resources, tutorials and more.
 * Alto's Adventure - [Snowman](http://builtbysnowman.com/)
 
 for more games [click here](https://en.wikipedia.org/wiki/List_of_Unity_games)
+
+https://github.com/RyanNielson/awesome-unity
+
+https://github.com/netpyoung/awesome-unity-free
+
+https://github.com/insthync/awesome-unity3d
