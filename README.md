@@ -1,5 +1,18 @@
 # Awesome Unity Engine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of awesome Unity assets, resources, tutorials and more.
+
+## Table of Contents
+
+* [About Unity Engine](#about-unity-engine)
+    * [Written in](#written-in)
+    * [Supported Operating Systems](#supported-operating-systems)
+    * [Supported Platforms](#supported-platforms)
+    * [Adopted Industries](#adopted-industries)
+    * [Plans and Pricing](#plans-and-pricing)
+    * [Written in](#written-in)
+
+* [Notable Games Made with Unity](#notable-games-made-with-unity)
 
 ## About Unity Engine
 
@@ -9,7 +22,7 @@ A curated list of awesome Unity assets, resources, tutorials and more.
     > * C++ (Runtime)
     > * C# (Unity Scripting API)
 
-* #### Operating System
+* #### Supported Operating Systems
     > * Windows
     > * Linux
     > * macOS
