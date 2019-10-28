@@ -71,13 +71,21 @@ A curated list of awesome Unity assets, resources, tutorials and more.
     > for more details [click here](https://store.unity.com/#plans-business)
 
 
-## Games Made with Unity
+## Notable Games Made with Unity
 
 * Monument Valley - [ustwo Games](https://www.ustwogames.co.uk/)
 * Cuphead - [StudioMDHR](http://studiomdhr.com/about-us/)
 * Temple Run - [Imangi Studios](https://imangistudios.com/)
 * Angry Bird - [Rovio Entertainment](https://www.rovio.com/)
-* Alto's Adventure - [Snowman](http://builtbysnowman.com/)
+* Alto's Adventure/Odyssey - [Snowman](http://builtbysnowman.com/)
+* Inside - [Playdead](https://playdead.com/)
+* Assassin's Creed Identity - [Ubisoft Blue Byte](https://bluebyte.ubisoft.com/en/)
+* Crossy Road - [Hipster Whale](https://hipsterwhale.com/)
+* Adventures of Poco Eco - Lost Sounds - [Possible Games](https://www.possible.com/games/)
+* Shadow Fight - [Nekki](https://www.nekki.com/en)
+* Oddmar - [Mobge](http://mobge.net/)
+* Pokémon Go - [Niantic](https://nianticlabs.com/)
+* Call of Duty: Mobile - [TiMi Studios](https://timi.qq.com/)
 
 for more games [click here](https://en.wikipedia.org/wiki/List_of_Unity_games)
 
